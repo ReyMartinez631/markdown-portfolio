@@ -10,5 +10,5 @@ layout: default
 
 <br>
 
-{% include 03-links.md %}
+[GitHub]https://github.com/ReyMartinez631/markdown-portfolio/pull/3
 
