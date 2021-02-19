@@ -1,2 +1,2 @@
--[x]food
--[x]water
+- food
+- water
